@@ -1,1 +1,0 @@
-# deep_learning_MNIST_with_100_labels
